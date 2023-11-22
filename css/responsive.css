@@ -1,0 +1,1156 @@
+@media (min-width: 320px) and (max-width: 575px){
+	/* back to top st */
+.top-button a {
+	background-color: #46a1f7d3;
+	right: 17px;
+}
+	/* back to top end */
+    /* navbar css st */
+#menu .navbar-brand img{
+    width: 100%;
+}
+#menu .menu-part {
+	margin-top: 20px;
+	background-color: #000000e5;
+	padding: 37px 0;
+	border-radius: 10px;
+}
+#menu .nav-link {
+	margin-bottom: 20px;
+}
+#menu .menu-toggle-icon{
+	color: white;
+	border: 0;
+}
+    /* navbar css end */
+    /* banner css st */
+#banner .banner-all-details {
+    text-align: center;
+	margin: 207px 0;
+}
+#banner .banner-details h2 {
+    font-size: 31px;
+    line-height: 41px;
+}
+#banner .banner-details p {
+	font-size: 12px;
+    width: 100%;
+}
+#banner .banner-button a {
+	padding: 10px 42px;
+	margin-right: 0px;
+}
+#banner .banner-button i {
+	top: 12px;
+	left: 20px;
+	font-size: 18px;
+}
+#banner .banner-button p {
+	font-size: 8px;
+}
+#banner .banner-button h5 {
+	font-size: 8px;
+}
+#banner .banner-img {
+    display: none;
+}
+.custom-shape-divider-bottom-1699254732 svg {
+	height: 67px;
+}
+.custom-shape-divider-bottom-1699254732 svg {
+	width: calc(100% + 95.3px);
+}
+    /* banner css end */
+    /* brand css st */
+#brand {
+	padding: 50px 0 50px 0;
+}
+#brand .brand-heading {
+	margin-right: 0px;
+	text-align: center;
+}
+#brand .brand-heading h3 {
+	font-size: 36px;
+}
+#brand .brand-details {
+	margin: 20px 0;
+}
+    /* brand css end */
+    /* feature css st */
+#feature {
+	padding-bottom: 50px;
+}
+.subtitle {
+	font-size: 20px;
+}
+.title {
+	font-size: 28px;
+	width: 100%;
+}
+#feature .feature-details {
+	margin-bottom: 15px;
+}
+#feature::after {
+	display: none;
+}
+#feature::before {
+	display: none;
+}
+#feature .feature-details::after {
+	top: -149px;
+}
+#feature .feature-details .feature-written p {
+	width: 100%;
+}
+    /* feature css end */
+    /* achievment css st */
+#achievment {
+	margin-bottom: 50px;
+}
+#achievment .achievment-shape1 {
+	bottom: -18%;
+	left: -5%;
+}
+#achievment .achievment-shape2 {
+	bottom: 6%;
+	right: 8%;
+}
+#achievment .achievment-shape9 {
+	top: 89%;
+	left: 17%;
+}
+#achievment .achievment-shape11 {
+	top: -5%;
+	right: 1%;
+}
+#achievment .achievment-shape7 {
+	top: 22%;
+	left: 75%;
+}
+#achievment .achievment-shape8 {
+	top: 95%;
+}
+#achievment .achievment-shape6 {
+	top: 85%;
+	left: 6%;
+}
+#achievment .achievment-details {
+	padding-bottom: 50px;
+}
+#achievment .achievment-details .happy-user {
+	transform: translateX(15px) translateY(-27px);
+}
+#achievment .achievment-details .best-award {
+	transform: translateX(15px) translateY(-27px);
+}
+    /* achievment css end */
+    /* work css st */
+#work {
+	padding-bottom: 50px;
+}
+.work-main-button {
+	justify-content: center;
+}
+#work .nav-link {
+	padding: 14px 20px;
+	margin-right: 17px;
+	font-size: 10px;
+	margin-bottom: 18px;
+}
+#work .nav-link span {
+	margin-right: 10px;
+	font-size: 14px;
+}
+#work .work-img{
+	display: none;
+}
+#work .work-details .work-button a {
+	padding: 15px 25px;
+}
+    /* work css end */
+    /* testimonial css st */
+#testimonial {
+	padding-bottom: 50px;
+}
+#testimonial .testimonial-subtitle{
+	text-align: center;
+}
+#testimonial .testimonial-title{
+	text-align: center;
+}
+#testimonial .testimonial-shape {
+	display: none;
+}
+#testimonial .testimonial-details .testimonial-pic .testimonial-pic-detail {
+	transform: translateY(0px);
+}
+#testimonial .testimonial-details h4 {
+	font-size: 18px;
+}
+#testimonial .testimonial-details p {
+	width: 82%;
+	font-size: 9px;
+	line-height: 9px;
+}
+#testimonial .testimonial-details .testimonial-pic img {
+	width: 21%;
+	transform: translateY(-18px);
+}
+#testimonial .testimonial-details .testimonial-pic .testimonial-pic-detail span {
+	font-size: 12px;
+	margin-bottom: 4px;
+}
+#testimonial .testimonial-details .testimonial-pic .testimonial-pic-detail h6 {
+	font-size: 9px;
+	margin-left: 2px;
+}
+#testimonial .testimonial-details .testimonial-pic .testimonial-pic-detail a {
+	margin-left: 4px;
+	font-size: 11px;
+}
+#testimonial .slick-dots {
+	bottom: 31%;
+}
+    /* testimonial css end */
+    /* screenshot css st */
+#screenshot {
+	padding-bottom: 50px;
+}
+.slider-card{
+	padding: 8px 0;
+}
+    /* screenshot css end */
+    /* team css st */
+#team {
+	padding-bottom: 50px;
+}
+#team .team-all-details {
+	margin-bottom: 20px;
+}
+    /* team css end */
+    /* news css st */
+#news .news-details .news-email {
+	width: 50%;
+	padding: 26px 10px;
+	font-size: 12px;
+}
+#news .news-details span {
+	margin-left: -3px;
+	padding-top: 21px;
+	padding-bottom: 27px;
+}
+#news .news-title {
+	width: 100%;
+}
+    /* news css end */
+    /* contact css st */
+#contact .contact-form .contact-title {
+	text-align: center;
+	padding: 0px 0 50px 0px;
+	margin: 0 auto;
+}
+#contact .contact-form .contact-subtitle {
+	text-align: center;
+	padding: 50px 0 0 0px;
+}
+#contact .contact-form input {
+	padding: 20px 0px 20px 10px;
+	margin-right: 0px;
+	font-size: 13px;
+}
+#contact .send {
+	padding: 14px 10px;
+	font-size: 13px;
+	margin-left: 0px;
+}
+#contact .send-button{
+	text-align: center;
+}
+#contact .contact-right {
+	margin-right: 0px;
+}
+#contact .contact-right .contact-right-detail h5 {
+	font-size: 16px;
+}
+#contact .contact-right .contact-right-detail p {
+	font-size: 11px;
+}
+#contact .contact-form {
+	transform: translateY(50px);
+}
+#contact .contact-form .form-control {
+	margin-left: 0px;
+	width: 95%;
+	margin: 0 auto;
+}
+#contact .contact-right h3 {
+	padding-left: 0px;
+	text-align: center;
+}
+#contact .from-information{
+	padding: 0 40px;
+}
+#contact .contact-form textarea {
+	min-height: 140px;
+}
+    /* contact css end */
+    /* top-footer css st */
+#top-footer {
+	padding-top: 146px;
+	padding-bottom: 50px;
+}
+#top-footer .top-footer-logo{
+	text-align: center;
+}
+#top-footer .top-footer-logo p {
+	margin: 0 auto;
+}
+#top-footer .user-link {
+	text-align: center;
+	margin-top: 36px;
+}
+#top-footer .user-link::before {
+	top: 30px;
+	left: 107px;
+	content: "------------";
+}
+#top-footer .download::before {
+	top: 35px;
+	left: 92px;
+	content: "------------------";
+}
+#top-footer .footer-button a {
+	margin-left: 0px;
+}
+    /* top-footer css end */
+    /* bottom-footer css st */
+#bottom-footer .bottom-footer-detail h3 {
+	font-size: 10px;
+	text-align: center;
+}
+#bottom-footer .bottom-footer-icon {
+	text-align: center;
+	margin-top: 13px;
+}
+    /* bottom-footer css end */
+}
+@media (min-width: 576px) and (max-width: 767px){
+	/* back to top st */
+.top-button a {
+	background-color: #46a1f7d3;
+	right: 17px;
+	bottom: 250px;
+}
+	/* back to top end */
+    /* navbar css st */
+#menu .navbar-brand img{
+	width: 100%;
+}
+#menu .menu-part {
+	margin-top: 20px;
+	background-color: #000000e5;
+	padding: 37px 0;
+	border-radius: 10px;
+}
+#menu .nav-link {
+	margin-bottom: 20px;
+}
+#menu .menu-toggle-icon{
+	color: white;
+	border: 0;
+}
+	/* navbar css end */
+    /* banner css st */
+#banner .banner-img {
+    top: 264px;
+}
+#banner .banner-img img {
+	width: 100%;
+}
+#banner .banner-details h2 {
+	font-size: 26px;
+    line-height: normal;
+}
+#banner .banner-details p {
+	font-size: 12px;
+    width: 100%;
+}
+#banner .banner-button a {
+	padding: 10px 31px;
+	border: 1px solid white;
+	margin-right: 0px;
+}
+#banner .banner-button i {
+	top: 16px;
+	left: 9px;
+	font-size: 15px;
+}
+#banner .banner-button p {
+	font-size: 8px;
+}
+#banner .banner-button h5 {
+	font-size: 8px;
+}
+    /* banner css end */
+    /* brand css st */
+#brand {
+	padding: 50px 0 50px 0;
+}
+#brand .brand-pic img{
+	width: 100%;
+}
+#brand .brand-heading {
+	margin-right: 0px;
+}
+#brand .brand-heading h3 {
+	font-size: 21px;
+	margin-bottom: 28px;
+}
+#brand .brand-heading p {
+	font-size: 10px;
+}
+#brand .brand-name h5 {
+	font-size: 17px;
+}
+    /* brand css end */
+    /* feature css st */
+#feature {
+	padding-bottom: 50px;
+}
+.title {
+	font-size: 28px;
+}
+.subtitle {
+	font-size: 20px;
+}
+#feature .feature-details {
+	margin: 15px 0;
+}
+#feature .feature-details::after {
+	left: 198px;
+}
+#feature::after {
+	display: none;
+}
+#feature::before {
+	display: none;
+}
+    /* feature css end */
+    /* achievment css st */
+#achievment {
+	margin-bottom: 50px;
+}
+#achievment .achievment-details p {
+	transform: translateX(53px) translateY(-30px);
+}
+#achievment .achievment-details span {
+	font-size: 43px;
+}
+#achievment .achievment-details {
+	padding-bottom: 50px;
+}
+#achievment .achievment-details .happy-user {
+	transform: translateX(38px) translateY(-30px);
+}
+#achievment .achievment-details .best-award {
+	transform: translateX(38px) translateY(-30px);
+}
+#achievment .achievment-shape1 {
+	bottom: -4%;
+	left: -2%;
+	width: 30%;
+	height: 34%;
+}
+#achievment .achievment-shape2 {
+	bottom: 13%;
+	right: 4%;
+	width: 9%;
+	height: 11%;
+}
+#achievment .achievment-shape8 {
+	top: 76%;
+	left: 17%;
+	width: 5%;
+	height: 5%;
+}
+#achievment .achievment-shape9 {
+	top: 89%;
+	left: 2%;
+	width: 6%;
+	height: 6%;
+}
+#achievment .achievment-shape10 {
+	top: 9%;
+	left: 69%;
+	width: 18%;
+	height: 26%;
+}
+#achievment .achievment-shape3 {
+	bottom: 70%;
+	right: 24%;
+	width: 10%;
+	height: 11%;
+}
+#achievment .achievment-shape7 {
+	top: 41%;
+	left: 41%;
+	width: 4%;
+	height: 4%;
+}
+#achievment .achievment-shape4 {
+	top: 3%;
+	left: 9%;
+	width: 11%;
+	height: 11%;
+}
+    /* achievment css end */
+    /* work css st */
+#work {
+	padding-bottom: 50px;
+}
+#work .nav-link {
+	padding: 20px 17px;
+	margin-right: 12px;
+	font-size: 15px;
+	margin-bottom: 35px;
+}
+#work .nav-link span {
+	margin-right: 10px;
+	font-size: 14px;
+}
+#work .work-img img {
+	margin-left: 0px;
+	width: 100%;
+	transform: translateY(95px);
+}
+#work .work-details .work-button a {
+	padding: 12px 14px;
+}
+#work .work-details .first-detail {
+	font-size: 11px;
+	line-height: 18px;
+}
+#work .work-details .second-detail {
+	font-size: 9px;
+}
+#work .second-details i {
+	font-size: 9px;
+	top: 9px;
+	left: 6px;
+}
+#work .work-details .third-detail {
+	font-size: 9px;
+}
+#work .third-details i {
+	font-size: 9px;
+	top: 9px;
+	left: 6px;
+}
+#work .work-details .fourth-detail {
+	font-size: 9px;
+}
+#work .fourth-details i {
+	font-size: 9px;
+	top: 9px;
+	left: 6px;
+}
+#work .work-details .fifth-detail {
+	font-size: 9px;
+}
+#work .fifth-details i {
+	font-size: 9px;
+	top: 9px;
+	left: 6px;
+}
+    /* work css end */
+    /* testimonial css st */
+#testimonial {
+	padding-bottom: 50px;
+}
+#testimonial .testimonial-details p {
+	width: 337px;
+	font-size: 12px;
+	line-height: 20px;
+}
+#testimonial .testimonial-shape {
+	display: none;
+}
+#testimonial .testimonial-details .testimonial-pic .testimonial-pic-detail .quote-sign {
+	font-size: 20px;
+	bottom: -3px;
+	right: -74px;
+}
+#testimonial .testimonial-details h4 {
+	font-size: 17px;
+}
+    /* testimonial css end */
+	/* screenshot css st */
+#screenshot {
+	padding-bottom: 50px;
+}
+.slider-card{
+	padding: 14px 0;
+}
+    /* screenshot css end */
+	/* team css st */
+#team {
+	padding-bottom: 50px;
+}
+#team .team-all-details {
+	margin-bottom: 20px;
+}
+    /* team css end */
+    /* news css st */
+#news .news-title {
+	width: 85%;
+}
+#news .news-details .news-email {
+	width: 80%;
+}
+    /* news css end */
+    /* contact css st */
+#contact .contact-right {
+	width: 90%;
+}
+#contact .contact-form {
+	transform: translateY(106px);
+}
+#contact .send {
+	padding: 17px 12px;
+	margin: 0 auto;
+}
+#contact .send-button{
+	text-align: center;
+}
+#contact .contact-form input {
+	padding: 25px 0px 25px 12px;
+	font-size: 11px;
+}
+#contact .contact-form .form-control {
+	width: 95%;
+	margin: 0 auto;
+}
+#contact .contact-form .contact-title {
+	text-align: center;
+	padding: 0px 0 50px 0px;
+	margin: 0 auto;
+}
+#contact .contact-form .contact-subtitle {
+	text-align: center;
+	padding: 50px 0 0 0px;
+}
+#contact .from-information{
+	padding: 0 50px;
+}
+    /* contact css end */
+    /* top-footer css st */
+#top-footer .top-footer-logo{
+	text-align: center;
+}
+#top-footer .top-footer-logo p {
+	margin: 0 auto;
+	margin-bottom: 45px;
+}
+#top-footer .user-link {
+	margin-left: 56px;
+	margin-bottom: 45px;
+}
+#top-footer .download::before {
+	left: 189px;
+}
+#top-footer .footer-button a {
+	margin-left: 0px;
+	margin-bottom: 0px;
+	margin: 0 15px;
+}
+    /* top-footer css end */
+    /* bottom-footer css st */
+#bottom-footer .bottom-footer-icon a {
+	margin: 0 2px;
+}
+#bottom-footer .bottom-footer-detail h3 {
+	font-size: 12px;
+}
+    /* bottom-footer css end */
+}
+@media (min-width: 768px) and (max-width: 991px){
+	/* back to top st */
+.top-button a {
+	background-color: #46a1f7d3;
+	right: 17px;
+	bottom: 450px;
+}
+	/* back to top end */
+/* navbar css st */
+#menu .navbar-brand img{
+	width: 100%;
+}
+#menu .menu-part {
+	margin-top: 20px;
+	background-color: #000000e5;
+	padding: 37px 0;
+	border-radius: 10px;
+}
+#menu .nav-link {
+	margin-bottom: 20px;
+}
+#menu .menu-toggle-icon{
+	color: white;
+	border: 0;
+}
+/* navbar css end */
+/* banner css st */
+#banner .banner-all-details {
+	margin: 315px 0;
+}
+#banner .banner-details h2 {
+	font-size: 34px;
+	line-height: normal;
+}
+#banner .banner-details p {
+	font-size: 13px;
+	width: 100%;
+}
+#banner .banner-button a {
+	margin-bottom: 17px;
+}
+#banner .banner-img {
+	height: 0px;
+	top: 296px;
+	right: 0;
+}
+#banner .banner-img img {
+	width: 100%;
+}
+/* banner css end */
+/* brand css st */
+#brand {
+	padding: 50px 0 50px 0;
+}
+#brand .brand-pic img{
+	width: 100%;
+}
+#brand .brand-heading {
+	margin-right: 0px;
+	margin-top: 22px;
+}
+#brand .brand-heading h3 {
+	font-size: 21px;
+	margin-bottom: 28px;
+}
+#brand .brand-heading p {
+		font-size: 10px;
+}
+#brand .brand-name h5 {
+	font-size: 17px;
+}
+#brand .brand-details{
+	padding: 20px 20px;
+}
+	/* brand css end */
+	/* feature css st */
+#feature {
+	padding-bottom: 50px;
+}
+.title {
+	font-size: 28px;
+}
+.subtitle {
+	font-size: 20px;
+}
+#feature .feature-details {
+	margin: 15px 0;
+}
+#feature .feature-details::after {
+	left: 258px;
+}
+#feature::after {
+	display: none;
+}
+#feature::before {
+	display: none;
+}
+    /* feature css end */
+    /* achievment css st */
+#achievment {
+	margin-bottom: 50px;
+}
+#achievment .achievment-details {
+		padding-bottom: 50px;
+}
+#achievment .achievment-details p {
+	transform: translateX(10px) translateY(-30px);
+}
+#achievment .achievment-details .happy-user {
+	transform: translateX(-8px) translateY(-30px);
+}
+#achievment .achievment-details .best-award {
+	transform: translateX(-2px) translateY(-30px);
+}
+#achievment .achievment-shape4 {
+	top: 7%;
+	left: 7%;
+	width: 10%;
+	height: 10%;
+}
+#achievment .achievment-shape3 {
+	bottom: 73%;
+	right: 33%;
+	width: 5%;
+	height: 5%;
+}
+#achievment .achievment-shape10 {
+	top: 17%;
+	left: 60%;
+	width: 19%;
+	height: 13%;
+}
+#achievment .achievment-shape11 {
+	top: 9%;
+	right: -1%;;
+	width: 15%;
+	height: 15%;
+}
+#achievment .achievment-shape2 {
+	bottom: 13%;
+	right: 7%;
+	width: 10%;
+	height: 10%;
+}
+#achievment .achievment-shape1 {
+	bottom: 0%;
+	left: -5%;
+	width: 32%;
+	height: 32%;
+}
+#achievment .achievment-shape9 {
+	top: 87%;
+	left: 2%;
+	width: 6%;
+	height: 5%;
+}
+#achievment .achievment-shape7 {
+	top: 42%;
+	left: 32%;
+	width: 3%;
+	height: 3%;
+}
+#achievment .achievment-shape6 {
+	top: 53%;
+	left: 13%;
+	width: 5%;
+	height: 4%;
+}
+#achievment .achievment-shape5 {
+	width: 6%;
+	height: 5%;
+}
+    /* achievment css end */
+    /* work css st */
+#work {
+	padding-bottom: 50px;
+}
+#work .nav-link {
+	padding: 25px 26px;
+	margin-right: 16px;
+	font-size: 20px;
+}
+#work .nav-link span {
+	margin-right: 13px;
+	font-size: 18px;
+}
+#work .work-img img {
+	margin-left: 0px;
+	width: 100%;
+}
+#work .work-details .first-detail {
+	font-size: 13px;
+}
+#work .work-details .second-detail {
+	font-size: 13px;
+}
+#work .work-details .work-button a {
+	padding: 15px 22px;
+}
+    /* work css end */
+    /* testimonial css st */
+#testimonial {
+	padding-bottom: 50px;
+}
+#testimonial .testimonial-details p {
+	width: 360px;
+	font-size: 10px;
+}
+#testimonial .testimonial-shape {
+	width: 400px;
+	height: 400px;
+	top: 80px;
+	right: -201px;
+}
+#testimonial .testimonial-details h4 {
+	font-size: 20px;
+}
+#testimonial .testimonial-details .testimonial-pic .testimonial-pic-detail .quote-sign {
+	font-size: 31px;
+	bottom: -5px;
+	right: -93px;
+}
+    /* testimonial css end */
+	/* screenshot css st */
+#screenshot {
+	padding-bottom: 50px;
+}
+.slider-card{
+	padding: 15px 0;
+}
+    /* screenshot css end */
+	/* team css st */
+#team {
+	padding-bottom: 50px;
+}
+#team .team-all-details {
+	margin-bottom: 20px;
+}
+    /* team css end */
+    /* news css st */
+#news .news-details .news-email {
+	width: 85%;
+}
+    /* news css end */
+    /* contact css st */
+#contact .contact-form {
+	transform: translateY(92px);
+}
+#contact .send-button{
+	text-align: center;
+}
+#contact .send {
+	padding: 18px 11px;
+	margin: 0 auto;
+}
+#contact .contact-right {
+	width: 92%;
+}
+#contact .from-information{
+	padding: 0 50px;
+}
+#contact .contact-form .form-control {
+	margin-left: 0px;
+	margin-bottom: 10px;
+}
+#contact .contact-form .contact-title {
+	text-align: center;
+	padding: 0px 0 50px 0px;
+	margin: 0 auto;
+}
+#contact .contact-form .contact-subtitle {
+	text-align: center;
+	padding: 50px 0 0 0px;
+}
+    /* contact css end */
+    /* top-footer css st */
+#top-footer {
+	padding-top: 190px;
+	padding-bottom: 37px;
+}
+#top-footer .top-footer-logo p {
+	margin-bottom: 39px;
+}
+#top-footer .footer-button a {
+	margin-left: 0px;
+}
+#top-footer .footer-button i {
+	top: 10px;
+}
+#top-footer .footer-button p {
+	font-size: 9px;
+}
+#top-footer .footer-button h5 {
+	font-size: 12px;
+}
+#top-footer .download::before {
+	left: 39px;
+}
+    /* top-footer css end */
+}
+@media (min-width: 992px) and (max-width: 1199px){
+	/* back to top st */
+.top-button a {
+	background-color: #46a1f7d3;
+	right: 17px;
+	bottom: 300px;
+}
+	/* back to top end */
+    /* navbar css st */
+.subtitle {
+	font-size: 20px;
+}
+.title {
+	font-size: 28px;
+}
+#menu .nav-link {
+    font-size: 12px;;
+    padding: 0 18px;
+}
+#menu .menu-right {
+	margin-left: 0px;
+}
+#menu .menu-right button {
+	padding: 10px 27px;
+	font-size: 12px;
+}
+    /* navbar css end */
+    /* banner css st */
+#banner .banner-details h2 {
+    font-size: 53px;
+    line-height: normal;
+}
+#banner .banner-details p {
+	font-size: 13px;
+	width: 100%;
+}
+#banner .banner-img {
+    height: 0px;
+    top: 280px;
+    right: 0;
+}
+#banner .banner-img img {
+	width: 100%;
+}
+    /* banner css end */
+    /* brand css st */
+#brand {
+	padding: 50px 0 50px 0;
+}
+    /* brand css end */
+    /* feature css st */
+#feature {
+	padding-bottom: 50px;
+}
+#feature .feature-details .feature-written p {
+	font-size: 12px;
+	width: 100%;
+}
+#feature .feature-details::after {
+	top: -136px;
+}
+#feature::after {
+	left: 50%;
+}
+    /* feature css end */
+    /* achievment css st */
+#achievment {
+	margin-bottom: 50px;
+}
+#achievment .achievment-details span {
+	font-size: 31px;
+}
+#achievment .achievment-details p {
+	font-size: 11px;
+	transform: translateX(48px) translateY(-30px);
+}
+#achievment .achievment-details .happy-user {
+	transform: translateX(36px) translateY(-30px);
+}
+#achievment .achievment-details .best-award {
+	transform: translateX(39px) translateY(-30px);
+}
+#achievment .achievment-shape5 {
+	width: 6%;
+	height: 6%;
+}
+    /* achievment css end */
+    /* work css st */
+#work {
+	padding-bottom: 50px;
+}
+#work .work-details .first-detail {
+	font-size: 11px;
+}
+#work .work-img img {
+	margin-left: 0px;
+	width: 100%;
+}
+#work .work-details .second-detail {
+	font-size: 12px;
+}
+#work .nav-link {
+	padding: 36px 36px;
+}
+    /* work css end */
+    /* testimonial css st */
+#testimonial {
+	padding-bottom: 50px;
+}
+#testimonial .testimonial-details h4 {
+	font-size: 20px;
+}
+#testimonial .testimonial-details p {
+	width: 391px;
+	font-size: 12px;
+	line-height: 25px;
+}
+#testimonial .testimonial-details .testimonial-pic .testimonial-pic-detail .quote-sign {
+	font-size: 36px;
+	bottom: -9px;
+	right: -129px;
+}
+    /* testimonial css end */
+	/* screenshot css st */
+#screenshot {
+	padding-bottom: 50px;
+}
+.slider-card{
+	padding: 20px 0;
+}
+    /* screenshot css end */
+    /* team css st */
+#team {
+	padding-bottom: 50px;
+}
+    /* team css end */
+    /* news css st */
+#news .news-title {
+	width: 60%;
+}
+    /* news css end */
+    /* contact css st */
+#contact .contact-form {
+	transform: translateY(99px);
+}
+#contact .contact-box input {
+	font-size: 14px;
+	padding: 18px 0px 18px 5px;
+}
+#contact .contact-email {
+	width: 92%;
+}
+#contact .contact-textarea {
+	font-size: 14px;
+	width: 92%;
+}
+#contact .contact-right .contact-right-detail h5 {
+	font-size: 17px;
+}
+#contact .contact-right h3 {
+	font-size: 23px;
+}
+#contact .contact-right .contact-right-detail p {
+	font-size: 11px;
+}
+    /* contact css end */
+    /* top-footer css st */
+#top-footer .user-link h4 {
+	font-size: 15px;
+}
+#top-footer .download h4 {
+	font-size: 15px;
+}
+#top-footer .download::before {
+	left: 98px;
+}
+#top-footer .footer-button h5 {
+	font-size: 14px;
+}
+    /* top-footer css end */
+}
